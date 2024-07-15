@@ -1,0 +1,113 @@
+#container {
+    border: 1px solid transparent;
+    border-radius: 50px;
+    margin-left: 32%;
+    margin-top: 6%;
+    height: 400px;
+    width: 400px;
+    background-color: rgba(255, 255, 255, 0.07);
+    -webkit-backdrop-filter: blur(2px);
+    backdrop-filter: blur(2px);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    box-shadow: 3px 2px 6px black;
+}
+
+#loginPage {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    margin-bottom: 40px;
+    text-shadow: 1px 2px 6px black;
+    font-size: 35px;
+    color:azure;
+    margin-left: 100px;
+
+
+}
+
+#userName {
+    margin-top: 20px;
+    margin-left: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+    float: none;
+    color: azure;
+}
+
+#user_name {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid black;
+    background-color:transparent;
+
+    color: azure;
+    box-shadow: 1px 2px 3px black;
+}
+
+#password {
+    margin-top: 20px;
+    margin-left: 140px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+    font-size: 20px;
+    float: none;
+    color: azure;
+
+}
+
+#pass_word {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 90px;
+    height: 30px;
+    width: 200px;
+    text-align: center;
+    border-radius: 50px;
+    border: 1px solid black;
+    background-color: transparent;
+    color:azure;
+    box-shadow: 1px 2px 3px black;
+}
+
+hr {
+    background-color: transparent;
+    box-shadow: 1px 2px 3px rgba(255, 255, 255, 0.07);
+    height: 3px;
+
+}
+
+button {
+    border-radius: 50px;
+    margin-top: 5%;
+    border: 1px solid black;
+    background-color: transparent;
+    color: azure;
+    box-shadow: 1px 2px 3px black;
+    height: 30px;
+    width: 130px;
+    margin-left: 34%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: lighter;
+}
+
+body {
+    background-image: url("summi.jpg");
+    background-size: cover;
+}
+
+#AETHER {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: 500;
+     color: rgba(124, 207, 246, 0.245);
+     font-size: 60px;
+     margin-top: -350px;
+     margin-left: 340px;
+     text-shadow: 2px 3px 8px black;
+ }
+ 
